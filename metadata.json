@@ -1,0 +1,6 @@
+{
+  "name": "Velouté & Spice - Luxury Dining & Ordering",
+  "description": "A world-class, multi-cuisine luxury restaurant website with interactive menu, online ordering, table reservations, WhatsApp ordering, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
